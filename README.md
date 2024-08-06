@@ -52,7 +52,7 @@ This project is an Online Test Management System developed using FastAPI, SQLAlc
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ./venv/scripts/activate
    ```
 
 3. **Install Dependencies**
